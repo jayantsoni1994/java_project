@@ -11,7 +11,7 @@
                  <password>devops</password>
          </server>
 	<server>
-                 <id>12345</id>
+                 <id>java-release</id>
                  <username>admin</username>
                  <password>admin123</password>
          </server>
